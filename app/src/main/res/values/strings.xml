@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yinzcam</string>
+
+    // NFL
+    <string name="empty_message">No Schedule yet.</string>
+    <string name="empty_message_sub">No games schedule. Once schedule is added it will appear here. </string>
+
+    <string name="error_message_sorry">Sorry!</string>
+    <string name="error_message">Something went wrong! Please try again.</string>
+
+    <string name="try_again">Try Again</string>
+    <string name="bye">bye</string>
+</resources>

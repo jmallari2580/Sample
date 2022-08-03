@@ -1,0 +1,14 @@
+ext.versions = [
+
+        // network
+        okhttp          : '4.9.1',
+        retrofit        : '2.9.0',
+        coroutines      : '1.6.0',
+        gson            : '2.8.8',
+        hilt            : '2.38.1',
+        compose         : '1.0.0',
+        composeView     : '1.4.0',
+        kotlin          : '1.5.0',
+        composeVm       : '2.4.1',
+        glide          : '1.5.1'
+]

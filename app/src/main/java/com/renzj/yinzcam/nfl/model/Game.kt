@@ -1,0 +1,30 @@
+package com.renzj.yinzcam.nfl.model
+
+data class Game(
+    val AwayScore: String? = null,
+    val Buttons: List<Button>? = null,
+    val CardData: CardData? = null,
+    val Clock: String? = null,
+    val Date: Date? = null,
+    val Down: String? = null,
+    val GameState: String? = null,
+    val Home: Boolean? = null,
+    val HomeScore: String? = null,
+    val Id: Int? = null,
+    val IsHome: Boolean,
+    val IsSuperStadium: Boolean? = null,
+    val Label: String? = null,
+    val Opponent: Opponent? = null,
+    val Quarter: String? = null,
+    val QuarterShorthand: String? = null,
+    val Radio: String? = null,
+    val Result: String? = null,
+    val ScheduleHeader: String? = null,
+    val SecondaryButtons: List<Any>? = null,
+    val TV: String? = null,
+    val Tickets: Tickets? = null,
+    val Type: String? = null,
+    val Venue: String? = null,
+    val WLT: String? = null,
+    val Week: String? = null
+)
